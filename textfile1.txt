@@ -1,1 +1,2 @@
-this is the text file 1
+this is the text file 1 with line 2
+this is the text file 1 with line 1
